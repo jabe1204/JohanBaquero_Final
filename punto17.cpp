@@ -12,8 +12,6 @@ double dx = 0.01;
 double dt = 0.01;
 int Nx = 2/0.01; /*(xf-xi)/dx*/	
 int Nt = tmax/dt;
-double cprima = dx/dt;							
-
 
 int main () 
 {
